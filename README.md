@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imrozzoha
+- 👋 Hi, I’m Imrozzoha Chowdhury.
 - 👀 I’m interested in AWS, Linux, Windows Server, Docker & Kubernetes.
-- 🌱 I’m currently learning Docker & Kubernetes
+- 🌱 I’m currently learning Docker & Kubernetes.
 - 💞️ I’m looking to collaborate on AWS, Linux, Windows Server, Docker & Kubernetes. 
 - 📫 How to reach me https://www.linkedin.com/in/imrozzoha-chowdhury
 
