@@ -2,14 +2,14 @@
 
 **Senior Staff DevSecOps & Platform Engineer** · Sydney, Australia
 
-![Available for Consulting](https://img.shields.io/badge/Available%20for%20Consulting-brightgreen?style=flat)
+[![Available for Consulting](https://img.shields.io/badge/Available%20for%20Consulting-brightgreen?style=flat)](https://imrozzoha.com/contact)
 [![Portfolio](https://img.shields.io/badge/Portfolio-imrozzoha.com-0284c7?style=flat)](https://imrozzoha.com)
 [![AI Marketplace](https://img.shields.io/badge/AI%20Marketplace-ai.imrozzoha.com-15a6f5?style=flat)](https://ai.imrozzoha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imrozzoha--chowdhury-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/imrozzoha-chowdhury)
 
 ---
 
-16 years across **Telecom**, **SaaS**, and **Banking** — currently a **Senior Staff Data Engineer** at Commonwealth Bank, building enterprise-scale cloud platforms and AI-powered systems as a Security Champion.
+16 years across **Telecom**, **SaaS**, and **Banking** — building enterprise-scale cloud platforms and AI-powered systems as a Security Champion.
 
 Specialising in DevSecOps, Platform Engineering, cloud-native architecture on AWS, and GenAI systems with Amazon Bedrock.
 
@@ -25,6 +25,9 @@ Specialising in DevSecOps, Platform Engineering, cloud-native architecture on AW
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Kong](https://img.shields.io/badge/Kong-00B4D8?style=flat&logo=kong&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ---
 
@@ -77,6 +80,8 @@ Starter templates from the [IC AI Automation Marketplace](https://ai.imrozzoha.c
 
 ---
 
-## Live Demo
+## Live Demos
 
-The [Career Concierge](https://imrozzoha.com) on my portfolio site is a production AI agent built with Amazon Bedrock, Claude Haiku 4.5, and the patterns from these repos — feel free to ask it anything about my background.
+**[Career Concierge](https://imrozzoha.com)** — production AI agent on my portfolio site built with Amazon Bedrock and Claude Haiku 4.5. Ask it anything about my background.
+
+**[IC AI Automation Marketplace](https://ai.imrozzoha.com)** — live showcase of the AI coworker and workflow automation templates in this account, with interactive demos.
