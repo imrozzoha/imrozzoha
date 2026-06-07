@@ -44,8 +44,26 @@ Three production-ready modules published on the Terraform Registry:
 | Repo | What it is |
 |------|------------|
 | [aws-bedrock-rag-pipeline](https://github.com/imrozzoha/aws-bedrock-rag-pipeline) | Production RAG pipeline starter — S3 → Lambda → Bedrock Converse API |
+| [aws-sagemaker-role-fit](https://github.com/imrozzoha/aws-sagemaker-role-fit) | Serverless role-fit scoring engine — zero-shot semantic similarity via SageMaker + all-MiniLM-L6-v2 |
 | [devsecops-pipeline-templates](https://github.com/imrozzoha/devsecops-pipeline-templates) | Reusable GitHub Actions — Semgrep, Bandit, Trivy, Checkov, Gitleaks |
 | [genaiops-governance-framework](https://github.com/imrozzoha/genaiops-governance-framework) | Governance-as-Code for Bedrock — guardrail validation + cost enforcement |
+
+---
+
+## AI Automation Marketplace Templates
+
+Starter templates from the [IC AI Automation Marketplace](https://ai.imrozzoha.com) — each runs in mock mode with no API key, and supports OpenAI and Claude:
+
+| Repo | What it is |
+|------|------------|
+| [ai-document-coworker-template](https://github.com/imrozzoha/ai-document-coworker-template) | Document Q&A with grounded answers and source references |
+| [ai-customer-support-coworker-template](https://github.com/imrozzoha/ai-customer-support-coworker-template) | Message triage, draft reply generation, and escalation |
+| [ai-admin-intake-coworker-template](https://github.com/imrozzoha/ai-admin-intake-coworker-template) | Classify, summarise, and draft responses to inbound enquiries |
+| [ai-content-coworker-template](https://github.com/imrozzoha/ai-content-coworker-template) | LinkedIn, blog, website, and email content drafting |
+| [ai-recruiter-coworker-template](https://github.com/imrozzoha/ai-recruiter-coworker-template) | CV screening, candidate shortlisting, and outreach drafts |
+| [ai-report-generator-template](https://github.com/imrozzoha/ai-report-generator-template) | Structured report and summary generation from source data |
+| [ai-job-intelligence-dashboard-template](https://github.com/imrozzoha/ai-job-intelligence-dashboard-template) | Job fit scoring, priority ranking, and application tracking |
+| [custom-gpt-business-workflow-template](https://github.com/imrozzoha/custom-gpt-business-workflow-template) | Custom GPT configuration, instructions playbook, and handover docs |
 
 ---
 
