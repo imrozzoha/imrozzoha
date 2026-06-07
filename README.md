@@ -4,6 +4,7 @@
 
 ![Available for Consulting](https://img.shields.io/badge/Available%20for%20Consulting-brightgreen?style=flat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-imrozzoha.com-0284c7?style=flat)](https://imrozzoha.com)
+[![AI Marketplace](https://img.shields.io/badge/AI%20Marketplace-ai.imrozzoha.com-15a6f5?style=flat)](https://ai.imrozzoha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imrozzoha--chowdhury-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/imrozzoha-chowdhury)
 
 ---
