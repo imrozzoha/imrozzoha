@@ -9,7 +9,7 @@
 
 ---
 
-16 years across **Telecom**, **SaaS**, and **Banking** — building enterprise-scale cloud platforms and AI-powered systems as a Security Champion.
+16+ years across **Telecom**, **SaaS**, and **Banking** — building enterprise-scale cloud platforms and AI-powered systems as a Security Champion.
 
 Specialising in DevSecOps, Platform Engineering, cloud-native architecture on AWS, and GenAI systems with Amazon Bedrock.
 
