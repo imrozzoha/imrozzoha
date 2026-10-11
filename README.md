@@ -1,6 +1,6 @@
 # Imrozzoha Chowdhury
 
-**Senior Staff DevSecOps & Platform Engineer** · Sydney, Australia
+**Senior Staff DevSecOps & Platform Engineer | CI/CD & GitHub Actions | AWS · Kubernetes · Terraform | Golden Paths | AI-Powered Systems (RAG, Multi-Agent, Bedrock)** · Sydney, Australia
 
 [![Available for Consulting](https://img.shields.io/badge/Available%20for%20Consulting-brightgreen?style=flat)](https://imrozzoha.com/contact)
 [![Portfolio](https://img.shields.io/badge/Portfolio-imrozzoha.com-0284c7?style=flat)](https://imrozzoha.com)
